@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'JSONKit-NoWarning'
+  s.name     = 'FredJSONKit'
   s.version  = '1.2'
   s.license      = { :type => 'BSD / Apache License, Version 2.0', :file => 'LICENCE' }
   s.summary  = 'A Very High Performance Objective-C JSON Library.'
