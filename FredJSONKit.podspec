@@ -11,6 +11,6 @@ s.platform     = :ios, '8.0'
 s.requires_arc = true
 
 # If more than one source file: https://guides.cocoapods.org/syntax/podspec.html#source_files
-s.source_files = 'JSONKit.h', 'JSONKit.m'
+s.source_files = 'JSONKit.h', 'JSONKit.m', 'JSONKit-NoWarning', 'JSONKit-NoWarning/**/*.{h,m, pch, xcconfig}'
 
 end
